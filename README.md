@@ -1,1 +1,2 @@
 # spark_happiness
+This is a quick analysis on the World Happiness Report dataset, available on: https://www.kaggle.com/unsdsn/world-happiness. In this Python notebook, we are using big data tools sych as PySpark and Spark.SQL to work on the dataset and obtain some important statistics and correlations. At the end, there is a comparison between Brazil and other countries with similar population size, regarding the happiness attributes and scores. The text descriptions are written in Brazilian Portuguese (PT-BR).
